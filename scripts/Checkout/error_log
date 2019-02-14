@@ -1,0 +1,455 @@
+[22-Sep-2016 09:19:50 UTC] PHP Fatal error:  Call to undefined function GetOrderNumber() in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 60
+[22-Sep-2016 09:19:59 UTC] PHP Fatal error:  Call to undefined function GetOrderNumber() in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 60
+[22-Sep-2016 09:20:20 UTC] PHP Fatal error:  Call to undefined function GetOrderNumber() in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 60
+[22-Sep-2016 09:21:19 UTC] PHP Fatal error:  Call to undefined function GetOrderNumber() in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 59
+[22-Sep-2016 09:21:23 UTC] PHP Fatal error:  Call to undefined function GetOrderNumber() in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 59
+[22-Sep-2016 09:21:24 UTC] PHP Fatal error:  Call to undefined function GetOrderNumber() in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 59
+[22-Sep-2016 09:21:25 UTC] PHP Fatal error:  Call to undefined function GetOrderNumber() in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 59
+[22-Sep-2016 09:21:26 UTC] PHP Fatal error:  Call to undefined function GetOrderNumber() in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 59
+[22-Sep-2016 09:22:02 UTC] PHP Fatal error:  Call to undefined function GetOrderNumber() in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 59
+[22-Sep-2016 09:22:39 UTC] PHP Fatal error:  Call to undefined function GetOrderNumber() in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 60
+[22-Sep-2016 09:25:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:25:35 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:25:35 UTC] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:25:35 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'choicetrust'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:25:35 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:25:35 UTC] PHP Notice:  Undefined index: address in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 488
+[22-Sep-2016 09:25:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:25:41 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:25:41 UTC] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:25:41 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'choicetrust'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:25:41 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:25:43 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 15
+[22-Sep-2016 09:25:43 UTC] PHP Warning:  mysql_query(): Access denied for user 'choicetrust'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 15
+[22-Sep-2016 09:25:43 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/choicetrust/public_html/admin/functions.php on line 15
+[22-Sep-2016 09:27:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:27:30 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:27:30 UTC] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:27:30 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'choicetrust'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:27:30 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:27:30 UTC] PHP Notice:  Undefined index: address in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 488
+[22-Sep-2016 09:27:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:27:32 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:27:32 UTC] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:27:32 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'choicetrust'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:27:32 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:27:32 UTC] PHP Notice:  Undefined index: address in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 488
+[22-Sep-2016 09:27:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:27:36 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:27:36 UTC] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:27:36 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'choicetrust'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:27:36 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:27:37 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 15
+[22-Sep-2016 09:27:37 UTC] PHP Warning:  mysql_query(): Access denied for user 'choicetrust'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 15
+[22-Sep-2016 09:27:37 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/choicetrust/public_html/admin/functions.php on line 15
+[22-Sep-2016 09:28:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:28:00 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:28:00 UTC] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:28:00 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'choicetrust'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:28:00 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:28:01 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 21
+[22-Sep-2016 09:28:01 UTC] PHP Warning:  mysql_query(): Access denied for user 'choicetrust'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 21
+[22-Sep-2016 09:28:01 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/choicetrust/public_html/admin/functions.php on line 21
+[22-Sep-2016 09:30:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:30:02 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:30:02 UTC] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:30:02 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'choicetrust'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:30:02 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:30:02 UTC] PHP Notice:  Undefined index: address in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 488
+[22-Sep-2016 09:30:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:30:07 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:30:07 UTC] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:30:07 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'choicetrust'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:30:07 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:30:08 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 15
+[22-Sep-2016 09:30:08 UTC] PHP Warning:  mysql_query(): Access denied for user 'choicetrust'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 15
+[22-Sep-2016 09:30:08 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/choicetrust/public_html/admin/functions.php on line 15
+[22-Sep-2016 09:34:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:34:36 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:34:36 UTC] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:34:36 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'choicetrust'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:34:36 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:34:36 UTC] PHP Notice:  Undefined index: address in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 488
+[22-Sep-2016 09:34:38 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:34:38 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:34:38 UTC] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:34:38 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'choicetrust'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:34:38 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:34:40 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 15
+[22-Sep-2016 09:34:40 UTC] PHP Warning:  mysql_query(): Access denied for user 'choicetrust'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 15
+[22-Sep-2016 09:34:40 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/choicetrust/public_html/admin/functions.php on line 15
+[22-Sep-2016 09:35:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:35:54 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:35:54 UTC] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:35:54 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'choicetrust'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:35:54 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:35:58 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 15
+[22-Sep-2016 09:35:58 UTC] PHP Warning:  mysql_query(): Access denied for user 'choicetrust'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 15
+[22-Sep-2016 09:35:58 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/choicetrust/public_html/admin/functions.php on line 15
+[22-Sep-2016 09:36:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:36:12 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:36:12 UTC] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:36:12 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'choicetrust'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:36:12 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:36:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:36:33 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:36:33 UTC] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:36:33 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'choicetrust'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:36:33 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:36:37 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 22
+[22-Sep-2016 09:36:37 UTC] PHP Warning:  mysql_query(): Access denied for user 'choicetrust'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 22
+[22-Sep-2016 09:36:37 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/choicetrust/public_html/admin/functions.php on line 22
+[22-Sep-2016 09:37:11 UTC] PHP Notice:  Undefined index: EXPRESS_MARK in /home/choicetrust/public_html/admin/scripts/Checkout/paypal_functions.php on line 491
+[22-Sep-2016 09:37:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:37:51 UTC] PHP Warning:  mysql_connect(): Access denied for user 'root'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:37:51 UTC] PHP Deprecated:  mysql_select_db(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:37:51 UTC] PHP Warning:  mysql_select_db(): Access denied for user 'choicetrust'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:37:51 UTC] PHP Warning:  mysql_select_db(): A link to the server could not be established in /home/choicetrust/public_html/admin/functions.php on line 10
+[22-Sep-2016 09:37:54 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/scripts/Checkout/return.php on line 135
+[22-Sep-2016 09:37:54 UTC] PHP Deprecated:  mysql_query(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 15
+[22-Sep-2016 09:37:54 UTC] PHP Warning:  mysql_query(): Access denied for user 'choicetrust'@'localhost' (using password: NO) in /home/choicetrust/public_html/admin/functions.php on line 15
+[22-Sep-2016 09:37:54 UTC] PHP Warning:  mysql_query(): A link to the server could not be established in /home/choicetrust/public_html/admin/functions.php on line 15
+[22-Sep-2016 09:40:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:40:18 UTC] PHP Notice:  Undefined index: address in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 488
+[22-Sep-2016 09:41:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:42:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:42:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:42:37 UTC] PHP Notice:  Undefined index: EXPRESS_MARK in /home/choicetrust/public_html/admin/scripts/Checkout/paypal_functions.php on line 491
+[22-Sep-2016 09:42:59 UTC] PHP Notice:  Undefined variable: shipToName in /home/choicetrust/public_html/admin/scripts/Checkout/review.php on line 83
+[22-Sep-2016 09:42:59 UTC] PHP Notice:  Undefined variable: shipToName in /home/choicetrust/public_html/admin/scripts/Checkout/review.php on line 83
+[22-Sep-2016 09:42:59 UTC] PHP Notice:  Undefined variable: shipToStreet in /home/choicetrust/public_html/admin/scripts/Checkout/review.php on line 84
+[22-Sep-2016 09:42:59 UTC] PHP Notice:  Undefined variable: shipToStreet in /home/choicetrust/public_html/admin/scripts/Checkout/review.php on line 84
+[22-Sep-2016 09:42:59 UTC] PHP Notice:  Undefined variable: shipToCity in /home/choicetrust/public_html/admin/scripts/Checkout/review.php on line 85
+[22-Sep-2016 09:42:59 UTC] PHP Notice:  Undefined variable: shipToCity in /home/choicetrust/public_html/admin/scripts/Checkout/review.php on line 85
+[22-Sep-2016 09:42:59 UTC] PHP Notice:  Undefined variable: shipToState in /home/choicetrust/public_html/admin/scripts/Checkout/review.php on line 86
+[22-Sep-2016 09:42:59 UTC] PHP Notice:  Undefined variable: shipToState in /home/choicetrust/public_html/admin/scripts/Checkout/review.php on line 86
+[22-Sep-2016 09:42:59 UTC] PHP Notice:  Undefined variable: shipToCntryCode in /home/choicetrust/public_html/admin/scripts/Checkout/review.php on line 87
+[22-Sep-2016 09:42:59 UTC] PHP Notice:  Undefined variable: shipToCntryCode in /home/choicetrust/public_html/admin/scripts/Checkout/review.php on line 87
+[22-Sep-2016 09:42:59 UTC] PHP Notice:  Undefined variable: shipToZip in /home/choicetrust/public_html/admin/scripts/Checkout/review.php on line 88
+[22-Sep-2016 09:42:59 UTC] PHP Notice:  Undefined variable: shipToZip in /home/choicetrust/public_html/admin/scripts/Checkout/review.php on line 88
+[22-Sep-2016 09:42:59 UTC] PHP Notice:  Undefined variable: totalAmt in /home/choicetrust/public_html/admin/scripts/Checkout/review.php on line 91
+[22-Sep-2016 09:42:59 UTC] PHP Notice:  Undefined variable: currencyCode in /home/choicetrust/public_html/admin/scripts/Checkout/review.php on line 92
+[22-Sep-2016 09:43:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 09:43:12 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/scripts/Checkout/return.php on line 135
+[22-Sep-2016 19:34:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 19:34:53 UTC] PHP Notice:  Undefined index: OrderNo_89FF94A9 in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 171
+[22-Sep-2016 19:34:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/functions.php on line 9
+[22-Sep-2016 19:34:54 UTC] PHP Notice:  Undefined index: OrderNo_89FF94A9 in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 81
+[23-Sep-2016 09:33:16 UTC] PHP Notice:  Undefined index: EXPRESS_MARK in /home/choicetrust/public_html/admin/scripts/Checkout/paypal_functions.php on line 491
+[23-Sep-2016 09:33:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[23-Sep-2016 09:33:49 UTC] PHP Notice:  Undefined variable: user in /home/choicetrust/public_html/admin/scripts/Checkout/return.php on line 135
+[23-Sep-2016 09:35:19 UTC] PHP Notice:  Undefined index: EXPRESS_MARK in /home/choicetrust/public_html/admin/scripts/Checkout/paypal_functions.php on line 491
+[23-Sep-2016 09:35:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[23-Sep-2016 09:35:38 UTC] PHP Notice:  Undefined variable: user in /home/choicetrust/public_html/admin/scripts/Checkout/return.php on line 135
+[23-Sep-2016 09:35:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[23-Sep-2016 09:35:49 UTC] PHP Notice:  Undefined index: Payment_Amount in /home/choicetrust/public_html/admin/scripts/Checkout/return.php on line 14
+[23-Sep-2016 09:35:49 UTC] PHP Notice:  Undefined index: PayerID in /home/choicetrust/public_html/admin/scripts/Checkout/return.php on line 17
+[23-Sep-2016 09:35:49 UTC] PHP Notice:  Undefined variable: shippingAmt in /home/choicetrust/public_html/admin/scripts/Checkout/return.php on line 89
+[23-Sep-2016 09:35:49 UTC] PHP Notice:  Undefined variable: nvpstr in /home/choicetrust/public_html/admin/scripts/Checkout/paypal_functions.php on line 371
+[23-Sep-2016 10:27:35 UTC] PHP Notice:  Undefined index: EXPRESS_MARK in /home/choicetrust/public_html/admin/scripts/Checkout/paypal_functions.php on line 491
+[23-Sep-2016 10:27:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[23-Sep-2016 10:27:58 UTC] PHP Notice:  Undefined variable: user in /home/choicetrust/public_html/admin/scripts/Checkout/return.php on line 135
+[23-Sep-2016 10:31:00 UTC] PHP Notice:  Undefined index: EXPRESS_MARK in /home/choicetrust/public_html/admin/scripts/Checkout/paypal_functions.php on line 491
+[23-Sep-2016 10:31:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[23-Sep-2016 10:31:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[23-Sep-2016 10:31:58 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 7
+[23-Sep-2016 10:32:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[23-Sep-2016 10:32:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 7
+[23-Sep-2016 10:32:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[23-Sep-2016 10:32:11 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 7
+[23-Sep-2016 10:32:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[23-Sep-2016 10:32:13 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 7
+[23-Sep-2016 10:32:13 UTC] PHP Notice:  Undefined variable: order_id in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 502
+[23-Sep-2016 10:34:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[23-Sep-2016 10:34:21 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 7
+[23-Sep-2016 10:34:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[23-Sep-2016 10:34:23 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 7
+[23-Sep-2016 10:34:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[23-Sep-2016 10:34:32 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 7
+[23-Sep-2016 10:34:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[23-Sep-2016 10:34:33 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 7
+[23-Sep-2016 11:25:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[23-Sep-2016 11:25:41 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 7
+[23-Sep-2016 11:25:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[23-Sep-2016 11:25:52 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 7
+[23-Sep-2016 11:27:43 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[23-Sep-2016 11:27:43 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 7
+[23-Sep-2016 11:27:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[23-Sep-2016 11:27:44 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 7
+[23-Sep-2016 11:30:05 UTC] PHP Notice:  Undefined index: EXPRESS_MARK in /home/choicetrust/public_html/admin/scripts/Checkout/paypal_functions.php on line 491
+[24-Sep-2016 15:06:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[24-Sep-2016 15:06:11 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 7
+[24-Sep-2016 15:06:11 UTC] PHP Notice:  Undefined index: OrderNo_0F83085F in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 171
+[24-Sep-2016 15:06:13 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[24-Sep-2016 15:06:13 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 7
+[24-Sep-2016 15:06:13 UTC] PHP Notice:  Undefined index: OrderNo_0F83085F in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 81
+[24-Sep-2016 15:35:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[24-Sep-2016 15:35:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 7
+[24-Sep-2016 15:35:07 UTC] PHP Notice:  Undefined index: OrderNo_0E2CE0FB in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 171
+[24-Sep-2016 15:35:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[24-Sep-2016 15:35:07 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 7
+[24-Sep-2016 15:35:07 UTC] PHP Notice:  Undefined index: OrderNo_0E2CE0FB in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 81
+[24-Sep-2016 15:37:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[24-Sep-2016 15:37:17 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 7
+[24-Sep-2016 15:37:17 UTC] PHP Notice:  Undefined index: OrderNo_9368AEDD in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 171
+[24-Sep-2016 15:37:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[24-Sep-2016 15:37:18 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 7
+[24-Sep-2016 15:37:18 UTC] PHP Notice:  Undefined index: OrderNo_9368AEDD in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 81
+[26-Sep-2016 13:58:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[26-Sep-2016 13:58:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[26-Sep-2016 14:00:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[26-Sep-2016 14:00:03 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 7
+[26-Sep-2016 14:00:03 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 8
+[26-Sep-2016 14:00:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[26-Sep-2016 14:00:05 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 7
+[26-Sep-2016 14:00:05 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 8
+[26-Sep-2016 14:00:07 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 503
+[26-Sep-2016 14:00:07 UTC] PHP Notice:  Undefined variable: transactionId in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 504
+[26-Sep-2016 14:01:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[26-Sep-2016 14:01:46 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 7
+[26-Sep-2016 14:01:46 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 8
+[26-Sep-2016 14:01:46 UTC] PHP Notice:  Undefined index: OrderNo_C6B3961A in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 172
+[26-Sep-2016 14:01:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[26-Sep-2016 14:01:47 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 7
+[26-Sep-2016 14:01:47 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 8
+[26-Sep-2016 14:01:47 UTC] PHP Notice:  Undefined index: OrderNo_C6B3961A in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 82
+[26-Sep-2016 14:01:47 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 503
+[26-Sep-2016 14:01:47 UTC] PHP Notice:  Undefined variable: transactionId in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 504
+[26-Sep-2016 14:06:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[26-Sep-2016 14:06:53 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[26-Sep-2016 14:07:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[26-Sep-2016 14:07:08 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 7
+[26-Sep-2016 14:07:08 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 8
+[26-Sep-2016 14:07:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[26-Sep-2016 14:09:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[26-Sep-2016 14:09:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[26-Sep-2016 14:09:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[26-Sep-2016 14:09:51 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 7
+[26-Sep-2016 14:09:51 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 8
+[26-Sep-2016 14:09:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[26-Sep-2016 14:10:25 UTC] PHP Notice:  Undefined index: EXPRESS_MARK in /home/choicetrust/public_html/admin/scripts/Checkout/paypal_functions.php on line 491
+[26-Sep-2016 14:11:03 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[27-Sep-2016 11:28:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[27-Sep-2016 11:28:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[27-Sep-2016 11:29:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[27-Sep-2016 11:29:54 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 7
+[27-Sep-2016 11:29:54 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 8
+[27-Sep-2016 11:29:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[27-Sep-2016 11:29:55 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 7
+[27-Sep-2016 11:29:55 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 8
+[27-Sep-2016 11:29:56 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 503
+[27-Sep-2016 13:15:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[27-Sep-2016 13:15:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[27-Sep-2016 13:16:16 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[27-Sep-2016 13:16:16 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 7
+[27-Sep-2016 13:16:16 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 8
+[27-Sep-2016 13:16:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[27-Sep-2016 13:16:18 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 7
+[27-Sep-2016 13:16:18 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 8
+[27-Sep-2016 13:16:20 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 503
+[13-Oct-2016 09:07:26 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[13-Oct-2016 09:07:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 13:49:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 13:49:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 13:52:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 13:52:36 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[14-Oct-2016 13:52:36 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[14-Oct-2016 13:52:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 13:52:37 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[14-Oct-2016 13:52:37 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[14-Oct-2016 13:52:38 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 503
+[14-Oct-2016 13:56:30 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 13:56:41 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 13:56:42 UTC] PHP Warning:  file_get_contents(choices.pdf): failed to open stream: No such file or directory in /home/choicetrust/public_html/admin/functions.php on line 801
+[14-Oct-2016 13:56:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 13:56:55 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[14-Oct-2016 13:56:55 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[14-Oct-2016 13:56:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 13:57:31 UTC] PHP Notice:  Undefined index: EXPRESS_MARK in /home/choicetrust/public_html/admin/scripts/Checkout/paypal_functions.php on line 491
+[14-Oct-2016 14:03:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 14:03:22 UTC] PHP Warning:  file_get_contents(choices.pdf): failed to open stream: No such file or directory in /home/choicetrust/public_html/admin/functions.php on line 801
+[14-Oct-2016 14:11:37 UTC] PHP Notice:  Undefined index: EXPRESS_MARK in /home/choicetrust/public_html/admin/scripts/Checkout/paypal_functions.php on line 491
+[14-Oct-2016 14:12:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 14:12:14 UTC] PHP Warning:  file_get_contents(choices.pdf): failed to open stream: No such file or directory in /home/choicetrust/public_html/admin/functions.php on line 811
+[14-Oct-2016 14:12:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 14:12:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 14:13:00 UTC] PHP Warning:  file_get_contents(choices.pdf): failed to open stream: No such file or directory in /home/choicetrust/public_html/admin/functions.php on line 811
+[14-Oct-2016 14:13:09 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 14:13:09 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[14-Oct-2016 14:13:09 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[14-Oct-2016 14:13:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 14:18:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 14:18:50 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 14:19:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 14:19:18 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[14-Oct-2016 14:19:18 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[14-Oct-2016 14:19:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 14:25:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 14:25:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 14:25:49 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 14:25:49 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[14-Oct-2016 14:25:49 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[14-Oct-2016 14:25:51 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 07:46:48 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 07:46:48 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 07:46:48 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 07:46:48 UTC] PHP Notice:  Undefined index: OrderNo_91B6DA5D in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 172
+[17-Oct-2016 07:46:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 07:46:52 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 07:46:52 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 07:46:52 UTC] PHP Notice:  Undefined index: OrderNo_91B6DA5D in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 82
+[17-Oct-2016 07:46:52 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 503
+[17-Oct-2016 07:53:46 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 07:54:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 07:55:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 07:55:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 07:56:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 07:56:20 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 07:56:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 07:56:37 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 07:56:37 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 07:56:39 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 07:56:39 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 07:56:39 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 07:56:39 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 503
+[17-Oct-2016 08:07:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 08:07:52 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 08:08:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 08:08:19 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 08:08:19 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 08:08:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 08:08:23 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 08:08:23 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 08:08:24 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 503
+[17-Oct-2016 08:13:02 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 08:13:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 08:13:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 08:13:57 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 08:13:57 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 08:14:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 08:14:00 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 08:14:00 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 08:14:01 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 503
+[17-Oct-2016 09:03:37 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:03:40 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:04:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:04:33 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 09:04:33 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 09:04:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:04:35 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 09:04:35 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 09:04:35 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 503
+[17-Oct-2016 09:13:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:13:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:14:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:14:12 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 09:14:12 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 09:14:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:14:14 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 09:14:14 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 09:14:14 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 503
+[17-Oct-2016 09:16:27 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:16:29 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:16:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:16:54 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 09:16:54 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 09:16:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:16:56 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 09:16:56 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 09:16:58 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 503
+[17-Oct-2016 09:34:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:34:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:34:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:34:42 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 09:34:42 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 09:34:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:34:44 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 09:34:44 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 09:34:45 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 150
+[17-Oct-2016 09:40:42 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:40:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:41:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:41:07 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 09:41:07 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 09:41:10 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:41:10 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 09:41:10 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 09:41:10 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 151
+[17-Oct-2016 09:44:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:44:57 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:45:31 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:45:31 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 09:45:31 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 09:45:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:45:32 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 09:45:32 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 09:45:33 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 151
+[17-Oct-2016 09:47:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:47:00 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 09:47:00 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 09:47:00 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 151
+[17-Oct-2016 09:58:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:58:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:58:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:58:33 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 09:58:33 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 09:58:35 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:58:35 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 09:58:35 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 09:59:55 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 09:59:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 10:00:22 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 10:00:22 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 10:00:22 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 10:00:24 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 10:00:24 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 10:00:24 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 10:01:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 10:01:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 10:01:56 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 10:01:56 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 10:01:56 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 10:02:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 10:02:00 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 10:02:00 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 10:02:45 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 10:02:47 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 10:03:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 10:03:05 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 10:03:05 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[17-Oct-2016 10:03:08 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[17-Oct-2016 10:03:08 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[17-Oct-2016 10:03:08 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[18-Oct-2016 06:17:25 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[18-Oct-2016 06:17:28 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[18-Oct-2016 06:18:17 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[18-Oct-2016 06:18:17 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[18-Oct-2016 06:18:17 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[18-Oct-2016 06:18:18 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[18-Oct-2016 14:26:19 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[18-Oct-2016 14:26:23 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[18-Oct-2016 14:27:05 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[18-Oct-2016 14:27:05 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[18-Oct-2016 14:27:05 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[18-Oct-2016 14:27:07 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[18-Oct-2016 14:28:10 UTC] PHP Notice:  Undefined variable: type in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 152
+[18-Oct-2016 14:28:21 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[18-Oct-2016 14:28:32 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[18-Oct-2016 14:28:33 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[18-Oct-2016 14:28:58 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[18-Oct-2016 14:28:58 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[18-Oct-2016 14:28:58 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[18-Oct-2016 14:28:59 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[18-Oct-2016 14:42:34 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[18-Oct-2016 14:42:36 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[18-Oct-2016 14:45:12 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[18-Oct-2016 14:45:12 UTC] PHP Notice:  Undefined index: username in /home/choicetrust/public_html/admin/functions.php on line 9
+[18-Oct-2016 14:45:12 UTC] PHP Notice:  Undefined index: transactiontype in /home/choicetrust/public_html/admin/functions.php on line 10
+[18-Oct-2016 14:45:14 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[18-Oct-2016 14:45:15 UTC] PHP Notice:  Undefined index: status in /home/choicetrust/public_html/admin/scripts/Checkout/paynow.php on line 142
+[21-Mar-2018 03:10:31 UTC] PHP Notice:  Undefined index: booktype in /home/choiceszim/public_html/admin/scripts/Checkout/paynow.php on line 374
+[21-Mar-2018 03:11:07 UTC] PHP Notice:  Undefined index: booktype in /home/choiceszim/public_html/admin/scripts/Checkout/paynow.php on line 374
+[21-Mar-2018 03:12:41 UTC] PHP Notice:  Undefined index: booktype in /home/choiceszim/public_html/admin/scripts/Checkout/paynow.php on line 374
+[21-Mar-2018 03:13:01 UTC] PHP Notice:  Undefined index: booktype in /home/choiceszim/public_html/admin/scripts/Checkout/paynow.php on line 374
+[21-Mar-2018 03:13:40 UTC] PHP Notice:  Undefined index: booktype in /home/choiceszim/public_html/admin/scripts/Checkout/paynow.php on line 374
+[21-Mar-2018 03:19:28 UTC] PHP Notice:  Undefined index: booktype in /home/choiceszim/public_html/admin/scripts/Checkout/paynow.php on line 374

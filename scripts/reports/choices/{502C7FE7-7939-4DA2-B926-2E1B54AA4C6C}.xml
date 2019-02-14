@@ -1,0 +1,15 @@
+<?xml version="1.0"?>
+<configuration date="2016/10/18" author="e.World Technology Ltd.">
+<project id="{502C7FE7-7939-4DA2-B926-2E1B54AA4C6C}" file="C:\Users\Administrator\Desktop\New folder (2)\New folder (2)\choices.prp" name="choices" product="PHPReportMaker" version="9.0" datetime="2016/10/18 15:52:44" languagefolder="phprptlang" userlevel="-2,&quot;Anonymous&quot;,0;">
+<table id="booksales" name="booksales" caption="booksales" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1"/>
+<table id="calender" name="calender" caption="calender" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1"/>
+<table id="details" name="details" caption="details" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1"/>
+<table id="prices" name="prices" caption="prices" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1"/>
+<table id="shipping" name="shipping" caption="shipping" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1"/>
+<table id="statements" name="statements" caption="statements" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1"/>
+<table id="users" name="users" caption="users" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1"/>
+<table id="usersales" name="usersales" caption="usersales" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1"/>
+<table id="Sales" name="Sales" caption="Sales" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1"/>
+<table id="donations" name="donations" caption="donations" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1"/>
+<table id="Donations_Report" name="Donations Report" caption="Donations Report" userlevel="-2,&quot;Anonymous&quot;,0;" priv="1"/>
+</project></configuration>

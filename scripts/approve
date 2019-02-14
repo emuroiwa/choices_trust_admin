@@ -1,0 +1,7 @@
+<?php
+ mysql_query("DELETE FROM `getdegree` WHERE gdid= '$_GET[id]'");
+
+  ?>
+  <script language="javascript">
+  alert("Deleted..............")
+history.go(-1)   </script>

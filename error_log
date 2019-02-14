@@ -1,0 +1,54 @@
+[14-Oct-2016 13:23:11 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 13:23:11 UTC] PHP Warning:  include(email/class.phpmailer.php): failed to open stream: No such file or directory in /home/choicetrust/public_html/admin/functions.php on line 4
+[14-Oct-2016 13:23:11 UTC] PHP Warning:  include(): Failed opening 'email/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/choicetrust/public_html/admin/functions.php on line 4
+[14-Oct-2016 13:23:11 UTC] PHP Warning:  include(email/class.smtp.php): failed to open stream: No such file or directory in /home/choicetrust/public_html/admin/functions.php on line 5
+[14-Oct-2016 13:23:11 UTC] PHP Warning:  include(): Failed opening 'email/class.smtp.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/choicetrust/public_html/admin/functions.php on line 5
+[14-Oct-2016 13:23:11 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 10
+[14-Oct-2016 13:23:11 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 11
+[14-Oct-2016 13:23:11 UTC] PHP Notice:  Undefined variable: path in /home/choicetrust/public_html/admin/functions.php on line 801
+[14-Oct-2016 13:23:11 UTC] PHP Warning:  file_get_contents(choices.pdf): failed to open stream: No such file or directory in /home/choicetrust/public_html/admin/functions.php on line 802
+[14-Oct-2016 13:23:11 UTC] PHP Notice:  Undefined variable: from_name in /home/choicetrust/public_html/admin/functions.php on line 808
+[14-Oct-2016 13:23:11 UTC] PHP Notice:  Undefined variable: from_mail in /home/choicetrust/public_html/admin/functions.php on line 808
+[14-Oct-2016 13:23:11 UTC] PHP Notice:  Undefined variable: replyto in /home/choicetrust/public_html/admin/functions.php on line 809
+[14-Oct-2016 13:23:11 UTC] PHP Notice:  Undefined variable: message in /home/choicetrust/public_html/admin/functions.php on line 817
+[14-Oct-2016 13:23:11 UTC] PHP Notice:  Undefined variable: filename in /home/choicetrust/public_html/admin/functions.php on line 819
+[14-Oct-2016 13:23:11 UTC] PHP Notice:  Undefined variable: filename in /home/choicetrust/public_html/admin/functions.php on line 821
+[14-Oct-2016 13:23:11 UTC] PHP Notice:  Undefined variable: mailto in /home/choicetrust/public_html/admin/functions.php on line 825
+[14-Oct-2016 13:23:11 UTC] PHP Notice:  Undefined variable: subject in /home/choicetrust/public_html/admin/functions.php on line 825
+[14-Oct-2016 13:26:00 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 13:26:00 UTC] PHP Warning:  include(email/class.phpmailer.php): failed to open stream: No such file or directory in /home/choicetrust/public_html/admin/functions.php on line 4
+[14-Oct-2016 13:26:00 UTC] PHP Warning:  include(): Failed opening 'email/class.phpmailer.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/choicetrust/public_html/admin/functions.php on line 4
+[14-Oct-2016 13:26:00 UTC] PHP Warning:  include(email/class.smtp.php): failed to open stream: No such file or directory in /home/choicetrust/public_html/admin/functions.php on line 5
+[14-Oct-2016 13:26:00 UTC] PHP Warning:  include(): Failed opening 'email/class.smtp.php' for inclusion (include_path='.:/opt/alt/php56/usr/share/pear:/opt/alt/php56/usr/share/php') in /home/choicetrust/public_html/admin/functions.php on line 5
+[14-Oct-2016 13:26:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 10
+[14-Oct-2016 13:26:00 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 11
+[14-Oct-2016 13:26:00 UTC] PHP Notice:  Undefined variable: path in /home/choicetrust/public_html/admin/functions.php on line 801
+[14-Oct-2016 13:26:00 UTC] PHP Notice:  Undefined variable: from_name in /home/choicetrust/public_html/admin/functions.php on line 808
+[14-Oct-2016 13:26:00 UTC] PHP Notice:  Undefined variable: from_mail in /home/choicetrust/public_html/admin/functions.php on line 808
+[14-Oct-2016 13:26:00 UTC] PHP Notice:  Undefined variable: replyto in /home/choicetrust/public_html/admin/functions.php on line 809
+[14-Oct-2016 13:26:00 UTC] PHP Notice:  Undefined variable: message in /home/choicetrust/public_html/admin/functions.php on line 817
+[14-Oct-2016 13:26:00 UTC] PHP Notice:  Undefined variable: filename in /home/choicetrust/public_html/admin/functions.php on line 819
+[14-Oct-2016 13:26:00 UTC] PHP Notice:  Undefined variable: filename in /home/choicetrust/public_html/admin/functions.php on line 821
+[14-Oct-2016 13:26:00 UTC] PHP Notice:  Undefined variable: mailto in /home/choicetrust/public_html/admin/functions.php on line 825
+[14-Oct-2016 13:26:00 UTC] PHP Notice:  Undefined variable: subject in /home/choicetrust/public_html/admin/functions.php on line 825
+[14-Oct-2016 13:31:54 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 13:31:54 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 9
+[14-Oct-2016 13:31:54 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 10
+[14-Oct-2016 13:31:54 UTC] PHP Notice:  Undefined variable: path in /home/choicetrust/public_html/admin/functions.php on line 800
+[14-Oct-2016 13:31:54 UTC] PHP Notice:  Undefined variable: from_name in /home/choicetrust/public_html/admin/functions.php on line 807
+[14-Oct-2016 13:31:54 UTC] PHP Notice:  Undefined variable: from_mail in /home/choicetrust/public_html/admin/functions.php on line 807
+[14-Oct-2016 13:31:54 UTC] PHP Notice:  Undefined variable: replyto in /home/choicetrust/public_html/admin/functions.php on line 808
+[14-Oct-2016 13:31:54 UTC] PHP Notice:  Undefined variable: filename in /home/choicetrust/public_html/admin/functions.php on line 818
+[14-Oct-2016 13:31:54 UTC] PHP Notice:  Undefined variable: filename in /home/choicetrust/public_html/admin/functions.php on line 820
+[14-Oct-2016 13:31:54 UTC] PHP Notice:  Undefined variable: mailto in /home/choicetrust/public_html/admin/functions.php on line 824
+[14-Oct-2016 13:31:54 UTC] PHP Notice:  Undefined variable: subject in /home/choicetrust/public_html/admin/functions.php on line 824
+[14-Oct-2016 13:35:44 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 13:35:44 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 9
+[14-Oct-2016 13:35:44 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 10
+[14-Oct-2016 13:35:44 UTC] PHP Notice:  Undefined variable: filename in /home/choicetrust/public_html/admin/functions.php on line 818
+[14-Oct-2016 13:35:44 UTC] PHP Notice:  Undefined variable: filename in /home/choicetrust/public_html/admin/functions.php on line 820
+[14-Oct-2016 13:35:44 UTC] PHP Notice:  Undefined variable: mailto in /home/choicetrust/public_html/admin/functions.php on line 824
+[14-Oct-2016 13:35:44 UTC] PHP Notice:  Undefined variable: subject in /home/choicetrust/public_html/admin/functions.php on line 824
+[14-Oct-2016 13:38:06 UTC] PHP Deprecated:  mysql_connect(): The mysql extension is deprecated and will be removed in the future: use mysqli or PDO instead in /home/choicetrust/public_html/admin/opendb.php on line 2
+[14-Oct-2016 13:38:06 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 9
+[14-Oct-2016 13:38:06 UTC] PHP Notice:  Undefined variable: _SESSION in /home/choicetrust/public_html/admin/functions.php on line 10
